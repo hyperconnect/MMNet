@@ -1,0 +1,25 @@
+# ML
+numpy
+Cython
+scipy
+pandas
+tqdm
+scikit-learn
+
+# data
+termcolor
+pillow
+click
+matplotlib
+
+# devtools
+gpustat
+
+# Vision
+scikit-image
+opencv-python
+
+# Miscellaneous
+humanfriendly
+overload
+deprecation
