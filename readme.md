@@ -26,10 +26,10 @@ The number of parameters for LDN+FB is not reported in their paper.
 - Tensorflow 1.6
 
 ## Installation
+
 ```
+git clone --recursive https://github.com/hyperconnect/MMNet.git
 pip3 install -r requirements/py36-gpu.txt
-git submodule init
-git submodule update  # it takes a while to finish
 ```
 
 ## Dataset
