@@ -85,6 +85,10 @@ It is recommended to run evaluation scripts together with training scripts in or
 ./scripts/valid_deeplab_os16_dm0.5_256.sh /path/to/dataset /path/to/training/directory
 ```
 
+## Demo
+
+Refer to `demo/demo.mp4`.
+
 ## License
 
 [Apache License 2.0](LICENSE)
